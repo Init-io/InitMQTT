@@ -7,8 +7,7 @@
 **InitMQTT** is a 🔥 firestarter MQTT wrapper for ESP8266/ESP32 that gets rid of the boring boilerplate.
 No more `client.setCallback(...)`, `loop()`, `reconnect()`, and `what-do-I-even-do-with-this-payload[]`.
 We've done the heavy lifting, so you can vibe and code.
----
----
+
 
 ## 🚀 Features
 
@@ -25,7 +24,7 @@ We've done the heavy lifting, so you can vibe and code.
 
 > ❗ Built over `PubSubClient`, but we made it feel like you're using an API from 2025.
 
----
+
 
 ## 🧪 Example: LED Control Vibe Check
 
