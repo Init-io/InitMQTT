@@ -1,27 +1,27 @@
 ---
 
-
 # 🧠 InitMQTT — Just MQTT, But Smart™
 
 > Simpler than your ex, smarter than PubSubClient.
 
-**InitMQTT** is a 🔥 firestarter MQTT wrapper for ESP8266/ESP32 that gets rid of the boring boilerplate.  
-No more `client.setCallback(...)`, `loop()`, `reconnect()`, and `what-do-I-even-do-with-this-payload[]`.  
+**InitMQTT** is a 🔥 firestarter MQTT wrapper for ESP8266/ESP32 that gets rid of the boring boilerplate.
+No more `client.setCallback(...)`, `loop()`, `reconnect()`, and `what-do-I-even-do-with-this-payload[]`.
 We've done the heavy lifting, so you can vibe and code.
 
+---
 
 ## 🚀 Features
 
-- ✅ `connect(server, port, user, pass)` — dead simple
-- ✅ `put(topic, value)` — for `String`, `int`, `float`
-- ✅ `putRetain(...)` — because memory is good
-- ✅ `get(topic)` — cached last message like your browser tabs
-- ✅ `subscribe(topic)` — easy, no drama
-- ✅ `setCallback(fn)` — get your messages without stress
-- ✅ `onReconnect(fn)` — auto-sync like a king
-- ✅ `refresh()` — your new `loop()`, but cooler
-- 🔒 Uses SSL by default (yes, we care about your security)
-- 💡 Works with HiveMQ, Mosquitto, AWS, anything MQTT
+* ✅ `connect(server, port, user, pass)` — dead simple
+* ✅ `put(topic, value)` — for `String`, `int`, `float`
+* ✅ `putRetain(...)` — because memory is good
+* ✅ `get(topic)` — cached last message like your browser tabs
+* ✅ `subscribe(topic)` — easy, no drama
+* ✅ `setCallback(fn)` — get your messages without stress
+* ✅ `onReconnect(fn)` — auto-sync like a king
+* ✅ `refresh()` — your new `loop()`, but cooler
+* 🔒 Uses SSL by default (yes, we care about your security)
+* 💡 Works with HiveMQ, Mosquitto, AWS — anything MQTT
 
 > ❗ Built over `PubSubClient`, but we made it feel like you're using an API from 2025.
 
@@ -53,7 +53,7 @@ void setup() {
 void loop() {
   mqtt.refresh();
 }
-````
+```
 
 ---
 
@@ -108,9 +108,4 @@ This is **InitMQTT** — where your ESP talks like it knows what it's doing.
 
 > 🧠 Less code, more control. You're welcome.
 
-```
-
 ---
-
-Let me know if you also want a `library.properties` or `keywords.txt` for Arduino Library Manager compatibility!
-```
