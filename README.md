@@ -9,7 +9,6 @@
 No more `client.setCallback(...)`, `loop()`, `reconnect()`, and `what-do-I-even-do-with-this-payload[]`.  
 We've done the heavy lifting, so you can vibe and code.
 
----
 
 ## 🚀 Features
 
