@@ -28,7 +28,7 @@ We've done the heavy lifting, so you can vibe and code.
 
 ## 🧪 Example: LED Control Vibe Check
 
-```cpp
+```
 #include <InitMQTT.h>
 InitMQTT mqtt;
 
