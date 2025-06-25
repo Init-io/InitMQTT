@@ -1,0 +1,12 @@
+InitMQTT     KEYWORD1
+connect      KEYWORD2
+put          KEYWORD2
+putRetain    KEYWORD2
+get          KEYWORD2
+subscribe    KEYWORD2
+setCallback  KEYWORD2
+onReconnect  KEYWORD2
+refresh      KEYWORD2
+connected    KEYWORD2
+disconnect   KEYWORD2
+setLoopTimeout KEYWORD2
