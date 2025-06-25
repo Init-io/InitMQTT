@@ -10,7 +10,7 @@ No more `client.setCallback(...)`, `loop()`, `reconnect()`, and `what-do-I-even-
 We've done the heavy lifting, so you can vibe and code.
 
 ---
-````markdown
+
 ## 🚀 Features
 
 - ✅ `connect(server, port, user, pass)` — dead simple
