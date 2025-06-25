@@ -1,8 +1,6 @@
-Absolutely! Here's your fully cleaned, formatted, and production-ready `README.md` file for **InitMQTT**:
-
 ---
 
-````markdown
+
 # 🧠 InitMQTT — Just MQTT, But Smart™
 
 > Simpler than your ex, smarter than PubSubClient.
@@ -12,7 +10,7 @@ No more `client.setCallback(...)`, `loop()`, `reconnect()`, and `what-do-I-even-
 We've done the heavy lifting, so you can vibe and code.
 
 ---
-
+````markdown
 ## 🚀 Features
 
 - ✅ `connect(server, port, user, pass)` — dead simple
