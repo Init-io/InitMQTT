@@ -83,7 +83,7 @@ Check out [`examples/usages/`](examples/usages/) for:
 ## 👨‍💻 Author
 
 **Siam Rayhan**
-[github.com/iamsiamrayhan](https://github.com/iamsiamrayhan)
+[instagram.com/thesiamrayhan](https://instagram.com/thesiamrayhan)
 
 * 💬 DM friendly
 * 💻 Built it for my own projects, open-sourcing for the homies
