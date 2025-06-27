@@ -1,6 +1,6 @@
 {
   "name": "InitMQTT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple and secure MQTT wrapper for ESP8266/ESP32 using PubSubClient.",
   "keywords": [
     "mqtt",
