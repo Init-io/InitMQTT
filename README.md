@@ -1,5 +1,3 @@
----
-
 # 🧠 InitMQTT — Just MQTT, But Smart™
 
 > Simpler than your ex, smarter than PubSubClient.
@@ -8,7 +6,7 @@
 No more `client.setCallback(...)`, `loop()`, `reconnect()`, and `what-do-I-even-do-with-this-payload[]`.
 We've done the heavy lifting, so you can vibe and code.
 
-
+---
 ## 🚀 Features
 
 * ✅ `connect(server, port, user, pass)` — dead simple
@@ -25,7 +23,7 @@ We've done the heavy lifting, so you can vibe and code.
 > ❗ Built over `PubSubClient`, but we made it feel like you're using an API from 2025.
 
 
-
+---
 ## 🧪 Example: LED Control Vibe Check
 ---
 ```
